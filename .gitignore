@@ -210,3 +210,7 @@ __marimo__/
 node_modules
 node_modules/
 node_modules/*
+
+.vite
+.vite/
+.vite/*
