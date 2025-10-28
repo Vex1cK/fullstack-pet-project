@@ -4,17 +4,17 @@
 
 ### Бэкенд
 
-в консоле перейти в папку `backend`
+в консоли перейти в папку `backend`\
 Рядом с файлом `.env.example` создать файл `.env` по аналогии с примером, и вставить туда ваш API_KEY с сайта `https://pro.coinmarketcap.com/account/`
 
 Далее создать виртуальное окружение:
 
-Windows: \
+Windows:
 - `python -m venv venv`
 - `pip install -r requirements.txt`
 
-И настроить порты: \
-В папке `src`, в файле `main.py` есть такие строчки: \
+И настроить порты:\
+В папке `src`, в файле `main.py` есть такие строчки:
 ```
 "http://localhost:5174",
 "http://127.0.0.1:5174"
@@ -30,7 +30,7 @@ Windows: \
 
 ### Фронтенд
 
-В консоле перейдите в папку `frontend`
+В консоли перейдите в папку `frontend`
 
 выполните `npm install`
 
