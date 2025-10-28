@@ -1,0 +1,8 @@
+aiohttp==3.13.1
+async-lru==2.0.4
+fastapi==0.120.0
+pydantic-settings==2.2.1
+pydantic_core==2.41.4
+python-dotenv==1.0.1
+typing_extensions==4.15.0
+uvicorn==0.38.0
